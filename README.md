@@ -2,9 +2,9 @@
 
 I maintain [these crates](CRATES.md), and [not these anymore](DROPPED.md).
 
-## Completed Rust Libraries (1.0)
+## Completed Rust Libraries (>= 1.0.0)
 
- - [`whoami 1.0`](https://crates.io/crates/whoami) - Retrieve the current user and environment
+ - [`whoami v1`](https://crates.io/crates/whoami) - Retrieve the current user and environment
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldaronlau&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldaronlau&theme=github_dark)
